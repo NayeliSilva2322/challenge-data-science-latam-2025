@@ -1,7 +1,8 @@
 # Análisis para decidir qué tienda vender - *Alura Store*
 
-![Portada del proyecto](https://www.loquequierasya.com/wp-content/uploads/2012/09/aumentar-ventas.jpg){width=400 height=100}
-
+<p align="center">
+  <img width="500" height="140" alt="Portada del proyecto" src="https://www.loquequierasya.com/wp-content/uploads/2012/09/aumentar-ventas.jpg">
+</p>
 ---
 
 ## 📘 Índice
